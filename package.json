@@ -1,0 +1,30 @@
+{
+  "name": "gsd",
+  "version": "0.0.1",
+  "description": "Respecting the art of getting stuff done.",
+  "repository": "mohamedhayibor/gsd",
+  "bin": {
+    "gsd": "cli.js"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "files": [
+    "cli.js"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "keywords": [
+    "gsd",
+    "productivity",
+    "concentration",
+    "done"
+  ],
+  "author": "Mohamed Hayibor <mohamedhayibor@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "meow": "^3.7.0",
+    "node-notifier": "^4.5.0"
+  }
+}
