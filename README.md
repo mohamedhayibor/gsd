@@ -4,9 +4,13 @@ GSD (Get Shit Done or Get Stuff Done)
 This module will notify you of the number one task to get done every 5 minutes. (instead of browsing twitter, Hacker News, or doing anything else).
 
 ## Installation
-  `npm install -g gsd`
+```
+  > npm install -g gsd
+```
 
-Don't forget the "-g", install it globally. (then you can run gsd everywhere)
+Don't forget the "-g" to install it globally. (then you can run gsd everywhere)
+
+![notification](http://res.cloudinary.com/masteryoperation/image/upload/v1458889904/Screen_Shot_2016-03-25_at_3.09.44_AM_azw062.png)
 
 ## Usage
 
