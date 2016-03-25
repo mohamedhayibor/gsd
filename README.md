@@ -1,4 +1,4 @@
-GSD (Get Shit Done or Get Stuff Done)
+GSD (Get Shit Done)
 ----
 
 This module will notify you of the number one task to get done every 5 minutes. (instead of browsing twitter, Hacker News, or doing anything else).
@@ -26,6 +26,8 @@ The reason why I created this, is because motivational quotes don't cut it for t
 
 Solution extreme GSD:
 > Just pick one task and beat it to submission.
+
+There is no api to mess with, hopefully 5 minutes is the sweetspot between not daydreaming and not getting distrated by the notification itself. Leave the terminal open, open another one for your dev stuff (cmd + N ) on mac.
 
 ## License
 MIT © [Mohamed Hayibor](https://github.com/mohamedhayibor)
