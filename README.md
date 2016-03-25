@@ -8,7 +8,7 @@ This module will notify you of the number one task to get done every 5 minutes. 
   > npm install -g gsd
 ```
 
-Don't forget the "-g" to install it globally. (then you can run gsd everywhere)
+Don't forget the "-g" to install it globally. (then you can run gsd anywhere)
 
 ![notification](http://res.cloudinary.com/masteryoperation/image/upload/v1458889904/Screen_Shot_2016-03-25_at_3.09.44_AM_azw062.png)
 
@@ -27,7 +27,7 @@ The reason why I created this, is because motivational quotes don't cut it for t
 Solution extreme GSD:
 > Just pick one task and beat it to submission.
 
-There is no api to mess with, hopefully 5 minutes is the sweetspot between not daydreaming and not getting distrated by the notification itself. Leave the terminal open, open another one for your dev stuff (cmd + N ) on mac.
+There is no api to mess with, hopefully 5 minutes is the sweetspot between not daydreaming and not getting distracted by the notification itself. Leave the terminal open, open another one for your dev stuff (cmd + N ) on mac.
 
 ## License
 MIT © [Mohamed Hayibor](https://github.com/mohamedhayibor)
