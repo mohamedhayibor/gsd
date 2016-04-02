@@ -22,8 +22,9 @@ const task = cli.input.join(' ');
 if (!task) {
   console.error('A task is required');
   process.exit(1);
+} else {
+  process.stdout.write('GSD reminder has been successfully set.');
 }
-
 
 const interval = setInterval(function () {
   nodeNotifier.notify({
